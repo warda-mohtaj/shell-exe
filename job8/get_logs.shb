@@ -1,0 +1,2 @@
+last warda | grep warda | wc -l | cat > Backup/number_connection-$(date 
+"+%d-%m-%Y-%H:%M").tar
